@@ -1,0 +1,9 @@
+10 klassen schrijven
+11 = overerving
+13 listbnox en list
+14 array/ dictionary
+16 string bewerking
+17 exeptions
+18 bestanden
+19 consoleprograms
+24 polymorfismes

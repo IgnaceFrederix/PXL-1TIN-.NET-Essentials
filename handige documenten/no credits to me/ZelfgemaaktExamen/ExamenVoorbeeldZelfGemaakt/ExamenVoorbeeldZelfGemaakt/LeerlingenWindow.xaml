@@ -1,0 +1,16 @@
+﻿<Window x:Class="ExamenVoorbeeldZelfGemaakt.LeerlingenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LeerlingenWindow" Height="300" Width="300">
+    <Grid Background="Blue" Margin="0,0,-71,-21">
+        <Label x:Name="NaamLabel" Content="'Naam' punten: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="white"/>
+        <Label Content="Programming basics: " HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Java-Essentials: " HorizontalAlignment="Left" Margin="10,115,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content=".Net-Essentials: " HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="Punt1Label" Content="Punt1" HorizontalAlignment="Left" Margin="191,70,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="Punt2Label" Content="Punt2" HorizontalAlignment="Left" Margin="191,115,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="Punt3Label" Content="Punt3" HorizontalAlignment="Left" Margin="194,158,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button x:Name="LogUitButton" Content="Log uit" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\bin\Debug\Menu Demo.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\bin\Debug\Menu Demo.pdb
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\obj\x86\Debug\Menu_Demo.Form1.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\obj\x86\Debug\Menu_Demo.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\bin\Debug\Menu Demo.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\bin\Debug\Menu Demo.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.csprojResolveAssemblyReference.cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu_Demo.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu_Demo.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\Menu Demo\obj\x86\Debug\Menu Demo.csproj.GenerateResource.Cache

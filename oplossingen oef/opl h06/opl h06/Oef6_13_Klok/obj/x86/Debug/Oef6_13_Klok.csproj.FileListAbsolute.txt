@@ -1,0 +1,15 @@
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\bin\Debug\Oef6_13_Klok.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\bin\Debug\Oef6_13_Klok.pdb
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.pdb
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.exe
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.pdb
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\bin\Debug\Oef6_13_Klok.exe
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\bin\Debug\Oef6_13_Klok.pdb
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.csprojResolveAssemblyReference.cache
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.Form1.resources
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.Properties.Resources.resources
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_13_Klok\obj\x86\Debug\Oef6_13_Klok.csproj.GenerateResource.Cache

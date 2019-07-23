@@ -1,0 +1,20 @@
+//-----------------------------------------------------------------------------
+// Programmeren in C#: oplossingen oefeningen
+// Auteur: Kris.Hermans@live.be
+// Copyright (c) 2011 Pearson Education Benelux
+//-----------------------------------------------------------------------------
+
+Boter-kaas-eieren:
+Probeer 3 X-tekens op 1 lijn te krijgen voor je tegenstander
+3 O-tekens op 1 lijn heeft.
+
+Ga er van uit dat jij de X-tekens zet.
+
+Als jij mag beginnen:
+   - zet een X in het midden van het bord
+
+Zolang als het spel niet is afgelopen:
+   - Controleer of je tegenstander geen 2 O-tekens op een rij heeft:
+      - is dit het geval: blokkeer
+        anders zet een X aangrenzend aan een andere X
+        anders (als dat niet mogelijk is) zet een X op een willekeurige plaats

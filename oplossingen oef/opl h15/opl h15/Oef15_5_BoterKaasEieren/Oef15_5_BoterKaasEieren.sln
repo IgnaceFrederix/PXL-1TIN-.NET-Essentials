@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef15_5_BoterKaasEieren", "Oef15_5_BoterKaasEieren.csproj", "{B22E3F4C-9686-45BA-99D9-AD3593C3E48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22E3F4C-9686-45BA-99D9-AD3593C3E48D}.Debug|x86.ActiveCfg = Debug|x86
+		{B22E3F4C-9686-45BA-99D9-AD3593C3E48D}.Debug|x86.Build.0 = Debug|x86
+		{B22E3F4C-9686-45BA-99D9-AD3593C3E48D}.Release|x86.ActiveCfg = Release|x86
+		{B22E3F4C-9686-45BA-99D9-AD3593C3E48D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

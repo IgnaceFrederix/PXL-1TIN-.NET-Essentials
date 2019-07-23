@@ -1,0 +1,14 @@
+﻿<Window x:Class="w02e03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:w02e03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RepeatButton Margin="28,22,430.4,270.8" Click="grow">grow</RepeatButton>
+        <RepeatButton Margin="124,22,334.4,270.8" Click="shrink">shrink</RepeatButton>
+        <Rectangle x:Name="r1" Fill="#FFCAB864" HorizontalAlignment="Left" Height="100" Margin="194,117,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"   />
+    </Grid>
+</Window>

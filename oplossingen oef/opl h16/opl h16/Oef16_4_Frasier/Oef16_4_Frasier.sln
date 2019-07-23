@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef16_4_Frasier", "Oef16_4_Frasier.csproj", "{47DFA942-5661-4640-AF45-46CD52528FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DFA942-5661-4640-AF45-46CD52528FD8}.Debug|x86.ActiveCfg = Debug|x86
+		{47DFA942-5661-4640-AF45-46CD52528FD8}.Debug|x86.Build.0 = Debug|x86
+		{47DFA942-5661-4640-AF45-46CD52528FD8}.Release|x86.ActiveCfg = Release|x86
+		{47DFA942-5661-4640-AF45-46CD52528FD8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

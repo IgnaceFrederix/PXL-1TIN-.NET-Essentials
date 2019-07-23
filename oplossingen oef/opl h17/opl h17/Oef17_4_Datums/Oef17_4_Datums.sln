@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef17_4_Datums", "Oef17_4_Datums.csproj", "{3B4E34DD-40ED-4454-A00E-F0E8742E56F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4E34DD-40ED-4454-A00E-F0E8742E56F9}.Debug|x86.ActiveCfg = Debug|x86
+		{3B4E34DD-40ED-4454-A00E-F0E8742E56F9}.Debug|x86.Build.0 = Debug|x86
+		{3B4E34DD-40ED-4454-A00E-F0E8742E56F9}.Release|x86.ActiveCfg = Release|x86
+		{3B4E34DD-40ED-4454-A00E-F0E8742E56F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

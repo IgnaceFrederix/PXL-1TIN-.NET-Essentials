@@ -1,0 +1,23 @@
+﻿<Window x:Class="HogerLager.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HogerLager"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="300" Width="1281.463">
+    <Grid Name="grid">
+        <Canvas Name="startingCardCanvas" HorizontalAlignment="Left" Height="157" Margin="19,24,0,0" VerticalAlignment="Top" Width="118" Background="#FFC1C1C1"/>
+        <Button x:Name="higherButton"  HorizontalAlignment="Left" Height="56" Margin="20,205,0,0" VerticalAlignment="Top" Width="61" BorderBrush="White" Click="GuessHigher" Foreground="Black">
+            <Button.Background>
+                <ImageBrush ImageSource="thumbs/up.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="lowerButton" HorizontalAlignment="Left" Height="56" Margin="86,205,0,0" VerticalAlignment="Top" Width="61" BorderBrush="White" Click="GuessLower">
+            <Button.Background>
+                <ImageBrush ImageSource="thumbs/down.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

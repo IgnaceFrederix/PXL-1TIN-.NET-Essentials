@@ -1,0 +1,6 @@
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication28\WpfApplication28\bin\Debug\WpfApplication28.exe.config
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\WpfApplication28\WpfApplication28\obj\Debug\WpfApplication28.csprojResolveAssemblyReference.cache
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\WpfApplication28\WpfApplication28\obj\Debug\MainWindow.g.cs
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\WpfApplication28\WpfApplication28\obj\Debug\App.g.cs
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\WpfApplication28\WpfApplication28\obj\Debug\WpfApplication28_MarkupCompile.cache
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\WpfApplication28\WpfApplication28\obj\Debug\WpfApplication28_MarkupCompile.lref

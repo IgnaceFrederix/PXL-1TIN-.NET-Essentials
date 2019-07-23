@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef16_6_PlusMinReeks", "Oef16_6_PlusMinReeks.csproj", "{91E27831-FACB-466A-B956-E025A1DCD70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E27831-FACB-466A-B956-E025A1DCD70B}.Debug|x86.ActiveCfg = Debug|x86
+		{91E27831-FACB-466A-B956-E025A1DCD70B}.Debug|x86.Build.0 = Debug|x86
+		{91E27831-FACB-466A-B956-E025A1DCD70B}.Release|x86.ActiveCfg = Release|x86
+		{91E27831-FACB-466A-B956-E025A1DCD70B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

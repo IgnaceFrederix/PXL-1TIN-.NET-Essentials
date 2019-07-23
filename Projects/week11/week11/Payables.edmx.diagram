@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ae666ca7b1484fc1a296a1438e381e50" Name="Diagram1">
+        <EntityTypeShape EntityType="PayablesModel.GLAccounts" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PayablesModel.InvoiceLineItems" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PayablesModel.Invoices" Width="1.5" PointX="8.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PayablesModel.States" Width="1.5" PointX="3.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PayablesModel.Terms" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PayablesModel.Vendors" Width="1.5" PointX="6" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="PayablesModel.FK_InvoiceLineItems_GLAccounts" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_Vendors_GLAccounts" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_InvoiceLineItems_Invoices" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_Invoices_Terms" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_Invoices_Vendors" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_Vendors_States" ManuallyRouted="false" />
+        <AssociationConnector Association="PayablesModel.FK_Vendors_Terms" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

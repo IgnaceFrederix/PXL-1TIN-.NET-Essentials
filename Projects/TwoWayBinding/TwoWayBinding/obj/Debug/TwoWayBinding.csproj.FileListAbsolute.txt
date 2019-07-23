@@ -1,0 +1,6 @@
+c:\users\mijn pc\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\bin\Debug\TwoWayBinding.exe.config
+C:\Users\Mijn PC\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\obj\Debug\TwoWayBinding.csprojResolveAssemblyReference.cache
+C:\Users\Mijn PC\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Mijn PC\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\obj\Debug\App.g.cs
+C:\Users\Mijn PC\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\obj\Debug\TwoWayBinding_MarkupCompile.cache
+C:\Users\Mijn PC\documents\visual studio 2015\Projects\TwoWayBinding\TwoWayBinding\obj\Debug\TwoWayBinding_MarkupCompile.lref

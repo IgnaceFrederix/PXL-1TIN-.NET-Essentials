@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\bin\Debug\Oef4_8_Weerstanden.exe
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\bin\Debug\Oef4_8_Weerstanden.pdb
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\obj\x86\Debug\Oef4_8_Weerstanden.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\obj\x86\Debug\Oef4_8_Weerstanden.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\obj\x86\Debug\Oef4_8_Weerstanden.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\obj\x86\Debug\Oef4_8_Weerstanden.exe
+C:\Users\Jan Thuwis\Downloads\opl h04\opl h04\Oef4_8_Weerstanden\obj\x86\Debug\Oef4_8_Weerstanden.pdb

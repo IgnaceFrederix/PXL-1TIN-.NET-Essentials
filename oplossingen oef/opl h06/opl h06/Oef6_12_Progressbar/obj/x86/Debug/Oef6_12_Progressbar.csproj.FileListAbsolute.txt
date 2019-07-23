@@ -1,0 +1,9 @@
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\bin\Debug\Oef6_12_Progressbar.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\bin\Debug\Oef6_12_Progressbar.pdb
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.pdb
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.exe
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_12_Progressbar\obj\x86\Debug\Oef6_12_Progressbar.pdb

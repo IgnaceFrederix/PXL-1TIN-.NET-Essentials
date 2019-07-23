@@ -1,0 +1,29 @@
+﻿<Window x:Class="Clicker.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clicker"
+        mc:Ignorable="d"
+        Title="Profit Upgrade" Height="415" Width="270">
+    <Grid>
+        <Button x:Name="profitbutton1" Content="2000 $" HorizontalAlignment="Left" Margin="10,16,0,0" VerticalAlignment="Top" Width="90" Click="profitup1"/>
+        <Button x:Name="profitbuttonAll" Content="20000000000 $ " HorizontalAlignment="Left" Margin="10,277,0,-28" VerticalAlignment="Top" Width="90" Click="profitupAll"/>
+        <Button x:Name="profitbutton2" Content="20000 $" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" Width="90" Click="profitup2"/>
+        <Button x:Name="profitbutton3" Content="200000 $" HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top" Width="90" Click="profitup3"/>
+        <Button x:Name="profitbutton4" Content="2000000 $" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top" Width="90" Click="profitup4"/>
+        <Button x:Name="profitbutton5" Content="20000000 $" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="90" Click="profitup5"/>
+        <Button x:Name="profitbutton6" Content="200000000 $" HorizontalAlignment="Left" Margin="10,204,0,0" VerticalAlignment="Top" Width="90" Click="profitup6"/>
+        <Button x:Name="profitbutton7" Content="2000000000 $" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="90" Click="profitup7"/>
+        <Button x:Name="button1" Content="Close Window" HorizontalAlignment="Left" Margin="74,315,0,-66" VerticalAlignment="Top" Width="88" Click="closeprofitup"/>
+        <Label x:Name="label" Content="Pointing Lasers" HorizontalAlignment="Left" Margin="99,10,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy" Content="FMJ Bullets" HorizontalAlignment="Left" Margin="99,53,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy1" Content="High Caliber Bullet" HorizontalAlignment="Left" Margin="99,91,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy2" Content="Bigger Plane " HorizontalAlignment="Left" Margin="99,127,0,0" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy3" Content="Quad Rocked Pod" HorizontalAlignment="Left" Margin="99,161,0,0" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy4" Content="More Bom Place" HorizontalAlignment="Left" Margin="99,201,0,0" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy5" Content="Expiremental Warhead" HorizontalAlignment="Left" Margin="99,233,0,0" VerticalAlignment="Top" Width="135" RenderTransformOrigin="0.63,0.385"/>
+        <Label x:Name="label_Copy6" Content="Black Check" HorizontalAlignment="Left" Margin="99,271,0,-28" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.63,0.385"/>
+
+    </Grid>
+</Window>

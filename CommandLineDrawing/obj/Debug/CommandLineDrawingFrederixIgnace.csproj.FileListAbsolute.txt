@@ -1,0 +1,3 @@
+C:\Users\Mijn PC\Documents\Bureaublad\CommandLineDrawing\bin\Debug\CommandLineDrawing.exe.config
+C:\Users\Mijn PC\Documents\Bureaublad\CommandLineDrawing\obj\Debug\CommandLineDrawing.exe
+C:\Users\Mijn PC\Documents\Bureaublad\CommandLineDrawing\obj\Debug\CommandLineDrawing.pdb

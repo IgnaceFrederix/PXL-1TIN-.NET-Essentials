@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef10_5_Dobbelstenen", "Oef10_5_Dobbelstenen.csproj", "{F2CEBD29-DC2C-4EF7-A04A-FBEA316E37E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CEBD29-DC2C-4EF7-A04A-FBEA316E37E7}.Debug|x86.ActiveCfg = Debug|x86
+		{F2CEBD29-DC2C-4EF7-A04A-FBEA316E37E7}.Debug|x86.Build.0 = Debug|x86
+		{F2CEBD29-DC2C-4EF7-A04A-FBEA316E37E7}.Release|x86.ActiveCfg = Release|x86
+		{F2CEBD29-DC2C-4EF7-A04A-FBEA316E37E7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

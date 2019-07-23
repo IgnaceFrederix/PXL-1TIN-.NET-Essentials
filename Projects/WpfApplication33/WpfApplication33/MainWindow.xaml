@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApplication33.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication33"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="search" HorizontalAlignment="Left" Height="23" Margin="252,47,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="replacebox" HorizontalAlignment="Left" Height="23" Margin="252,75,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="algo" HorizontalAlignment="Left" Margin="252,103,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="exe" Content="Button" HorizontalAlignment="Left" Margin="44,166,0,0" VerticalAlignment="Top" Width="75" Click="doit"/>
+        <Button x:Name="clear" Content="Button" HorizontalAlignment="Left" Margin="161,171,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="load" Content="Button" HorizontalAlignment="Left" Margin="283,171,0,0" VerticalAlignment="Top" Width="75" Click="Load"/>
+        <TextBox x:Name="vieuw" HorizontalAlignment="Left" Height="62" Margin="64,225,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="308" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+         ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+
+    </Grid>
+</Window>

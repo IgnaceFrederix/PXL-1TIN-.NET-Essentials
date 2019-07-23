@@ -1,0 +1,374 @@
+// Exception aanmaken //
+
+public class IllegalCommandException : ApplicationException
+{
+	public IllegalCommandException(string message) : base(message)
+	{
+	}
+}
+	
+	
+	
+// Exception oproepen //
+
+try
+	{
+		...
+	}
+catch (IllegalCommandException ex)
+	{
+		MessageBox.Show(String.Concat(file, " bevat een fout: ", ex.Message));
+	}
+finally
+	{
+		...
+	}
+
+	
+	
+// Bestand ophalen // VERSIE JORIS
+StreamReader inputStream = null;
+try
+	{
+		
+		string sourcepath = Convert.ToString(Directory.GetParent(Environment.CurrentDirectory));
+		string myfile = System.IO.Path.Combine(sourcepath, "bestandsnaam.txt");
+
+		inputStream = File.OpenText(myfile);
+		line = inputStream.ReadLine(); 
+
+		while (line != null)
+			{
+				Lijst.Add(line);  //Eventueel splitten
+				line = inputStream.ReadLine();  
+			}
+	}
+catch
+	{
+		...
+	}
+finally
+	{
+	if(inputStream!=null)
+		{
+			inputStream.Close();
+		}
+	}
+	
+	
+	
+// Bestand ophalen // VERSIE FRED
+
+string[] text;
+StreamReader reader = null;
+string file = openDialog.FileName;
+try
+	{
+		FileStream fileStream = new FileStream(file, FileMode.Open, FileAccess.Read);
+		reader = new StreamReader(fileStream);
+		while (reader.Peek() > -1)
+			{
+				string line = reader.ReadLine();
+				ExecuteCommand(line); //Verwijst naar een methode die splits en het op slaat
+			}
+	}
+catch
+	{
+		...
+	}
+finally
+	{
+	if (reader != null)
+		{
+			reader.Close();
+		}
+	}
+	
+	
+	
+// Bestand wegschrijven //
+
+string myfile;
+FileStream fsAppend = null;
+StreamWriter swAppend = null;
+
+try
+	{
+		sourcepath = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
+		myfile = System.IO.Path.Combine(sourcepath, "gebruikers.txt");	//directory in een string steken
+
+		fsAppend = new FileStream(myfile, FileMode.Append,FileAccess.Write);
+		swAppend = new StreamWriter(fsAppend);
+		swAppend.WriteLine(" ... ");	//Weg te schrijven text
+		MessageBox.Show("Wegschrijven voltooid", "Toegevoegd!", MessageBoxButton.OK, MessageBoxImage.Information);	//Confirmatie dat het gebeurd is
+	}
+catch
+	{
+		...
+	}
+
+finally
+	{
+		if (fsAppend != null)
+		{
+			fsAppend.Close();
+		}
+	}
+
+	
+// OpenFileDialog //
+
+private OpenFileDialog openDialog;
+
+public MainWindow()
+	{
+		openDialog = new OpenFileDialog();
+		openDialog.Filter = "Text Files| *.txt";
+		openDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+	}
+	
+private void open_Click(object sender, RoutedEventArgs e)
+    {            
+		if (openDialog.ShowDialog() == true)
+            {
+                StreamReader reader = null;
+                string file = openDialog.FileName;
+                try
+                {
+                    FileStream fileStream = new FileStream(file, FileMode.Open, FileAccess.Read);
+                    reader = new StreamReader(fileStream);
+                    while (reader.Peek() > -1)
+                    {
+                        string line = reader.ReadLine();
+                        ExecuteCommand(line);
+                    }
+                }
+			catch (FileNotFoundException)
+			{
+				MessageBox.Show(String.Concat(file, " fout bij het openen van bestand"));
+			}
+			finally
+			{
+				if (reader != null)
+				{
+					reader.Close();
+				}
+			}
+            
+		}
+	}
+	
+	
+	
+// SaveFileDialog //
+
+private SaveFileDialog saveDialog;
+
+public MainWindow()
+	{
+		saveDialog = new SaveFileDialog();
+		saveDialog.Filter = "Text Files| *.txt";
+		openDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+	}
+	
+private void opslaan_Click(object sender, RoutedEventArgs e)
+	{
+		if (saveDialog.ShowDialog() == true)
+            {
+                StreamWriter writer = null;
+                try
+                {
+                    writer = File.CreateText(saveDialog.FileName);
+                    foreach (Shape shape in shapes.ToArray())
+                    {
+                        writer.WriteLine(shape.ToString());
+                    }
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show(String.Concat(saveDialog.FileName, " fout bij het opslaan/wegschrijven van bestand"));
+                }
+                finally
+                {
+                    if (writer != null)
+                    {
+                        writer.Close();
+                    }
+                }
+            } 
+	}
+
+	
+	
+// Menu in MainWindow.xaml code//
+
+<Menu DockPanel.Dock="Top">
+	<MenuItem Header="Bestand">
+		<MenuItem Header="Openen" Click="open_Click"/>
+		<MenuItem Header="Opslaan als" Click="opslaan_Click"/>
+		<Separator/>
+		<MenuItem Header="Sluiten" Click="exit_Click"/>
+	</MenuItem>
+</Menu>
+
+
+
+// Exit command //
+
+private void exit_Click(object sender, RoutedEventArgs e)
+{
+	Environment.Exit(0);
+}
+		
+
+		
+// String bewerkingen //
+
+string.ToLower(); //Zet alles in kleine letters
+string.ToUpper(); //Zet alles in grote letters
+string.Trim(); //Verwijdert spaties voor en na text
+string.Insert(7, "c# "); //Voegt in een string op een plaats (tellende vanaf 0) een text bij
+string.Remove(1,4); //Verwijdert een bepaald deel van een string
+string.Length(); //Geeft de lengt van de string terug
+string.Substring(2,3); //Geeft een string terug dat deel is van een andere string
+string.IndexOf("text",3); //Geeft de plaats terug waar de string wordt gevonden vanaf een bepaalde plaats bv.3
+string.Split(','); //Split de string adhv een character en moet in een array worden gestoken, eventueel trimmen als er spaties gebruikt zijn geweest
+
+
+
+// Afbeelding laden //
+
+BitmapImage bi = new BitmapImage();
+bi.BeginInit();
+bi.UriSource = new Uri("image.jpg",urikind.RelativeOrAbsolute);
+bi.EndInit();
+Image picture = new Image();
+picture.Source = bi;
+picture.Margin = new Thickness(120,10,0,0);
+picture.Width = 150;
+picture.Height = 150;
+paperCanvas.Children.Add(picture);
+
+
+
+// MessageBox //
+
+MessageBox.Show("Message","Titel",MessageBoxButton.OK, MessageBoxImage.Error);
+
+
+
+
+// Switch //
+
+switch (commands[0])
+    {
+		case "teken":
+			Draw(ShapeFactory.CreateShape(commands[1], commands[2], commands[3])); //actie
+			break;
+		case "vul":
+            Draw(ShapeFactory.CreateShape(commands[1], commands[2], commands[3], true)); //actie
+			break;
+		case "undo":
+			Undo(); //actie
+			break;
+		case "clear":
+			Clear(); //actie
+			break;
+    }
+	
+
+	
+// ForEach //
+
+int[] fibarray = new int[] { 0, 1, 1, 2, 3, 5, 8, 13 };
+foreach (int element in fibarray)
+	{
+		System.Console.WriteLine(element);
+	}
+System.Console.WriteLine();
+
+
+
+// String format //
+
+string.Format("{0} {1} {2} {3}", command, "rechthoek", position, color)
+
+
+
+// Nieuwe window openen //
+
+// nieuwe window classe schrijven
+
+public partial class FilmWindow : Window
+{
+	public FilmWindow()
+	{
+		InitializeComponent();
+	}
+}
+
+// in huidige window verwijzen naar nieuwe window
+
+private void startButton_Click(object sender, RoutedEventArgs e)
+{
+	FilmWindow filmWindow = new FilmWindow();
+	filmWindow.Show(); 
+}
+
+
+
+// Tabel in MainWindow.xaml code //
+
+<ListView x:Name="filmListView" HorizontalAlignment="Left" Height="403" VerticalAlignment="Top" Width="353" Margin="10,10,0,0">
+	<ListView.View>
+		<GridView>
+			<GridViewColumn Header="Titel" Width="200" DisplayMemberBinding="{Binding Titel}"/>
+			<GridViewColumn Header="Jaar" Width="75" DisplayMemberBinding="{Binding Jaar}"/>
+			<GridViewColumn Header="Rating" Width="75" DisplayMemberBinding="{Binding Rating}"/>
+		</GridView>
+	</ListView.View>
+</ListView>
+
+
+
+// List //
+
+private List<type> naam = new List<type>();
+
+
+
+// List toekennen //
+
+ListView.ItemsSource = null; //Refresh
+ListView.ItemsSource = Listnaam;
+
+
+
+// Random //
+
+//Random integer tussen 0 and 100 (100 not included):
+
+Random random = new Random();
+int randomNumber = random.Next(0, 100);
+
+
+
+// Enum //
+
+public class EnumTest
+{
+    enum Days { Sun, Mon, Tue, Wed, Thu, Fri, Sat };
+
+    static void Main()
+    {
+        int x = (int)Days.Sun;
+        int y = (int)Days.Fri;
+        Console.WriteLine("Sun = {0}", x);
+        Console.WriteLine("Fri = {0}", y);
+    }
+}
+/* Output:
+   Sun = 0
+   Fri = 5
+*/
+

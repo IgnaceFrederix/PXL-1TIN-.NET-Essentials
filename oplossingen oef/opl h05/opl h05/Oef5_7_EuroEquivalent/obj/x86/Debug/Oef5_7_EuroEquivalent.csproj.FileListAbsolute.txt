@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\bin\Debug\Oef5_7_EuroEquivalent.exe
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\bin\Debug\Oef5_7_EuroEquivalent.pdb
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\obj\x86\Debug\Oef5_7_EuroEquivalent.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\obj\x86\Debug\Oef5_7_EuroEquivalent.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\obj\x86\Debug\Oef5_7_EuroEquivalent.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\obj\x86\Debug\Oef5_7_EuroEquivalent.exe
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_7_EuroEquivalent\obj\x86\Debug\Oef5_7_EuroEquivalent.pdb

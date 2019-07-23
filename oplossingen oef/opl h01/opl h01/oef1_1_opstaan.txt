@@ -1,0 +1,19 @@
+//-----------------------------------------------------------------------------
+// Programmeren in C#: oplossingen oefeningen
+// Auteur: Kris.Hermans@live.be
+// Copyright (c) 2011 Pearson Education Benelux
+//-----------------------------------------------------------------------------
+
+Word wakker. 
+Kleed je aan. 
+Eet je ontbijt. 
+Poets je tanden. (Herhaling: meer dan eens borstelen)
+Pak je boekentas. (Herhaling: meerder boeken inpakken)
+Doe je jas aan. (Keuze: als het regent, dan een regenjas, anders je gewone jas)
+Doe je schoenen aan.
+Ga naar buiten.
+Sluit de deur.
+Fiets naar school:
+   - neem je fiets
+   - bind je boekentas op de fiets
+   - rij naar school

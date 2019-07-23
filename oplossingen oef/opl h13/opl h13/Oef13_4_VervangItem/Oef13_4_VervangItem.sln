@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_4_VervangItem", "Oef13_4_VervangItem.csproj", "{2217F8DB-5A66-4118-93C1-1E231E2B87A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2217F8DB-5A66-4118-93C1-1E231E2B87A3}.Debug|x86.ActiveCfg = Debug|x86
+		{2217F8DB-5A66-4118-93C1-1E231E2B87A3}.Debug|x86.Build.0 = Debug|x86
+		{2217F8DB-5A66-4118-93C1-1E231E2B87A3}.Release|x86.ActiveCfg = Release|x86
+		{2217F8DB-5A66-4118-93C1-1E231E2B87A3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

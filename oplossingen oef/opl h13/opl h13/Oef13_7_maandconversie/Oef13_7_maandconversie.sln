@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef13_7_maandconversie", "Oef13_7_maandconversie.csproj", "{A828A6D9-B482-4FB8-9806-C1E41ABA358D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A828A6D9-B482-4FB8-9806-C1E41ABA358D}.Debug|x86.ActiveCfg = Debug|x86
+		{A828A6D9-B482-4FB8-9806-C1E41ABA358D}.Debug|x86.Build.0 = Debug|x86
+		{A828A6D9-B482-4FB8-9806-C1E41ABA358D}.Release|x86.ActiveCfg = Release|x86
+		{A828A6D9-B482-4FB8-9806-C1E41ABA358D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

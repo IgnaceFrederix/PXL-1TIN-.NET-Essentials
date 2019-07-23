@@ -1,0 +1,8 @@
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\bin\Debug\Display an item.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\bin\Debug\Display an item.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display an item.csprojResolveAssemblyReference.cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display_an_item.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display_an_item.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display an item.csproj.GenerateResource.Cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display an item.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Display an item\obj\x86\Debug\Display an item.pdb

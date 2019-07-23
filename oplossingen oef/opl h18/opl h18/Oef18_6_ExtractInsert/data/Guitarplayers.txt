@@ -1,0 +1,15 @@
+﻿Though most blues guitar players
+are right-handed, (or left-handed
+players who re-strung their guitars,
+such as Jimi Hendrix), two left-handed
+players have made their mark:
+EXTRACTTO:king.txt
+Albert King, whose style involves
+long bent notes, played slowly.
+ENDEXTRACT
+EXTRACTTO:rush.txt
+Otis Rush, who is a highly-rated
+songwriter and singer.
+ENDEXTRACT
+However, such an approach restricts
+the player to simple chord fingerings.

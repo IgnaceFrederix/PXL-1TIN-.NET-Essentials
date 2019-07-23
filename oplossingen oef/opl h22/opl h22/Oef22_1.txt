@@ -1,0 +1,9 @@
+Blackboxtesten zouden eruit bestaan om zeer veel getallen in willekeurige volgorde in te voeren en inderdaad vast te stellen dat steeds het grootste getal tot nog wordt getoond. Dit maakt dan geen veronderstelling over het gebruikte algoritme.
+
+Bij een Whiteboxtest zou je voor volgende combinatie van getallen kunnen kiezen:
+
+3	-> enige getal dus het grootste
+5	-> groter dan het huidige maximum
+1	-> kleiner dan het huidige maximum
+
+Op deze manier weet je zeker dat alle trajecten doorheen de code getest zijn.

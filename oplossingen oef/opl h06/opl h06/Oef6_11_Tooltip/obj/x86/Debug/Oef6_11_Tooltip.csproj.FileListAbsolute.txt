@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\bin\Debug\Oef6_11_Tooltip.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\bin\Debug\Oef6_11_Tooltip.pdb
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\obj\x86\Debug\Oef6_11_Tooltip.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\obj\x86\Debug\Oef6_11_Tooltip.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\obj\x86\Debug\Oef6_11_Tooltip.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\obj\x86\Debug\Oef6_11_Tooltip.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_11_Tooltip\obj\x86\Debug\Oef6_11_Tooltip.pdb

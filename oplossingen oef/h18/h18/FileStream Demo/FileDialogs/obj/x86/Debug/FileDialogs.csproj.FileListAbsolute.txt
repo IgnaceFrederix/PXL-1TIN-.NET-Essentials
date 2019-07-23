@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\bin\Debug\FileDialogs.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\bin\Debug\FileDialogs.pdb
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\obj\x86\Debug\FileDialogs.Form1.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\obj\x86\Debug\FileDialogs.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\obj\x86\Debug\FileDialogs.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\obj\x86\Debug\FileDialogs.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\FileDialogs\obj\x86\Debug\FileDialogs.pdb

@@ -1,0 +1,8 @@
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\bin\Debug\File Search.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\bin\Debug\File Search.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File Search.csprojResolveAssemblyReference.cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File_Search.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File_Search.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File Search.csproj.GenerateResource.Cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File Search.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Search\obj\x86\Debug\File Search.pdb

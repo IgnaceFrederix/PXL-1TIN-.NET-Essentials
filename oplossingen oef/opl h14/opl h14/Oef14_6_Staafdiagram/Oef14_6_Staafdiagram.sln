@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef14_6_Staafdiagram", "Oef14_6_Staafdiagram.csproj", "{119483A8-02A6-44B7-AD53-825497C2360D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119483A8-02A6-44B7-AD53-825497C2360D}.Debug|x86.ActiveCfg = Debug|x86
+		{119483A8-02A6-44B7-AD53-825497C2360D}.Debug|x86.Build.0 = Debug|x86
+		{119483A8-02A6-44B7-AD53-825497C2360D}.Release|x86.ActiveCfg = Release|x86
+		{119483A8-02A6-44B7-AD53-825497C2360D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

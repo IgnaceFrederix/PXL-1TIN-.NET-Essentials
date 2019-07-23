@@ -1,0 +1,8 @@
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\bin\Debug\File Input.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\bin\Debug\File Input.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File Input.csprojResolveAssemblyReference.cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File_Input.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File_Input.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File Input.csproj.GenerateResource.Cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File Input.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Input\obj\x86\Debug\File Input.pdb

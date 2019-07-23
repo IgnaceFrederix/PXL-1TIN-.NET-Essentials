@@ -1,0 +1,13 @@
+//-----------------------------------------------------------------------------
+// Programmeren in C#: oplossingen oefeningen
+// Auteur: Kris.Hermans@live.be
+// Copyright (c) 2011 Pearson Education Benelux
+//-----------------------------------------------------------------------------
+
+neem de eerste kaart
+dit is voorlopig de grootste
+
+zolang niet alle kaarten zijn genomen:
+   - neem een kaart
+   - vergelijk die kaart met de voorlopig grootste kaart
+   - als deze kaart groter is dan wordt dit de nieuwe grootste kaart

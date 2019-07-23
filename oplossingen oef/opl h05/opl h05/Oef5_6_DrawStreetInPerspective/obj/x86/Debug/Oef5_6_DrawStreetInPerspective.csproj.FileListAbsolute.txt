@@ -1,0 +1,15 @@
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\bin\Debug\Oef5_5_DrawStreet.exe
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\bin\Debug\Oef5_5_DrawStreet.pdb
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInperspective.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInperspective.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInPerspective.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_5_DrawStreet.exe
+C:\Users\Jan Thuwis\Downloads\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_5_DrawStreet.pdb
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_5_DrawStreet.exe
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_5_DrawStreet.pdb
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\bin\Debug\Oef5_5_DrawStreet.exe
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\bin\Debug\Oef5_5_DrawStreet.pdb
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInPerspective.csprojResolveAssemblyReference.cache
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInperspective.Form1.resources
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInperspective.Properties.Resources.resources
+C:\Users\11304757\Documents\School\NET\opl h05\opl h05\Oef5_6_DrawStreetInPerspective\obj\x86\Debug\Oef5_6_DrawStreetInPerspective.csproj.GenerateResource.Cache

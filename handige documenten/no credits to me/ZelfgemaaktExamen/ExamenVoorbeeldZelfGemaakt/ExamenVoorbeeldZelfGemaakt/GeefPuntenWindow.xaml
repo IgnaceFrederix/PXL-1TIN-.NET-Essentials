@@ -1,0 +1,16 @@
+﻿<Window x:Class="ExamenVoorbeeldZelfGemaakt.GeefPuntenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GeefPuntenWindow" Height="300" Width="300">
+    <Grid Background="Blue">
+        <Label Content="Geef punten in: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Programming basics: " HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Java-Essentials" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content=".Net-Essentials" HorizontalAlignment="Left" Margin="10,157,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="Punt1TextBox" HorizontalAlignment="Left" Height="23" Margin="159,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="Punt2TextBox" HorizontalAlignment="Left" Height="23" Margin="159,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="Punt3TextBox" HorizontalAlignment="Left" Height="23" Margin="159,161,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="49"/>
+        <Button x:Name="StopButton" Content="Stop invoer" HorizontalAlignment="Left" Margin="104,216,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

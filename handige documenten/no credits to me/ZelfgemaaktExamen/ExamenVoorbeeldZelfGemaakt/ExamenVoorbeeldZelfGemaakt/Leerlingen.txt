@@ -1,0 +1,16 @@
+a,ToonFroeyen,lelelel,11/12/1995
+a,flappieflap,lololol,23/09/1993
+a,juinajuin,goedwachtwoord,09/03/1996
+a,nognejuinajuin,jajonggoedwachtwoord,10/03/1996
+b,Hans,ILoveGriteje,10/12/2000
+b,peter,lelel,12/10/2000
+b,dieter,noob,12/12/2012
+b,lelel,qdflk,12/12/2012
+c,hehetoch,2uurvast,12/12/2013
+c,vastgezeten,ophetinlezen,11/12/2015
+c,dievorige,isnognieeensgeborenlol,13/01/2016
+c,endieal,helemaalnie,02/12/1995
+d,stommenamen,stommewachtwoorden,01/01/1991
+d,ikhaatnamenmaken,veelteveelnamen,02/02/1992
+d,nog2komaan,bijnadaar,26/05/1990
+d,hopsalaatstenaam,tisgenoeggeweest,23/02/1992

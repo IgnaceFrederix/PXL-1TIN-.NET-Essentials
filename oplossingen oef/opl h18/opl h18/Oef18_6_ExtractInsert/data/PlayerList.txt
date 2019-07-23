@@ -1,0 +1,3 @@
+﻿List of Players:
+INSERTFROM:king.txt
+INSERTFROM:rush.txt

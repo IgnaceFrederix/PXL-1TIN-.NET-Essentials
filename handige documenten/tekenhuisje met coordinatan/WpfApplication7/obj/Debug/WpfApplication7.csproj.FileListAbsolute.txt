@@ -1,0 +1,20 @@
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\tekenhuisje met coordinatan\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\tekenhuisje met coordinatan\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\tekenhuisje met coordinatan\WpfApplication7\obj\Debug\WpfApplication7.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\handige documenten\tekenhuisje met coordinatan\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+D:\PXL\1ste jaar\periode 3\DotNet\handige documenten\tekenhuisje met coordinatan\WpfApplication7\obj\Debug\WpfApplication7.exe
+D:\PXL\1ste jaar\periode 3\DotNet\handige documenten\tekenhuisje met coordinatan\WpfApplication7\obj\Debug\WpfApplication7.pdb

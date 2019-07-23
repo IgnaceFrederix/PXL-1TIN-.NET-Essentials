@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\bin\Debug\Oef6_10_MaskedTextBox_Beep.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\bin\Debug\Oef6_10_MaskedTextBox_Beep.pdb
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\obj\x86\Debug\Oef6_10_MaskedTextBox_Beep.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\obj\x86\Debug\Oef6_10_MaskedTextBox_Beep.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\obj\x86\Debug\Oef6_10_MaskedTextBox_Beep.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\obj\x86\Debug\Oef6_10_MaskedTextBox_Beep.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_10_MaskedTextBox_Beep\obj\x86\Debug\Oef6_10_MaskedTextBox_Beep.pdb

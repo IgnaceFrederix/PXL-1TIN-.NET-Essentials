@@ -1,0 +1,4 @@
+In dit hoofdstuk staan geen oefeningen waarvoor oplossingen dienen gegeven te worden:
+
+9.1 oefenen met een debugger
+9.2 compileren met het vbc commando

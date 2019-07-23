@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApplication10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas x:Name="paper" HorizontalAlignment="Left" Height="220" Margin="303,28,0,0" VerticalAlignment="Top" Width="156" Background="Gray"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="312,253,0,0" VerticalAlignment="Top" Height="30" Width="147" ValueChanged="changeLenght"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="138,129,0,0" VerticalAlignment="Top" Height="55" Width="247" RenderTransformOrigin="0.5,0.5" ValueChanged="changewith">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.044"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="363,288,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="190,168,0,0" VerticalAlignment="Top"/>
+        <Ellipse x:Name="elipce" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="303,28,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

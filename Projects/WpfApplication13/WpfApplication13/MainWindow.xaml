@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApplication13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="173,31,0,0" VerticalAlignment="Top" Height="74" Width="265" ValueChanged="ChangeApp"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="30,64,0,0" VerticalAlignment="Top" Orientation="Vertical" Height="214" Width="37" RenderTransformOrigin="1.042,-0.196"/>
+        <Canvas x:Name="paper" HorizontalAlignment="Left" Height="173" Margin="159,105,0,0" VerticalAlignment="Top" Width="322" Background="Gray"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards_MarkupCompile.cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards_MarkupCompile.lref
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.g.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Cards\Cards\obj\Debug\Cards.pdb
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards.pdb
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\MainWindow.g.cs
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\App.g.cs
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards_MarkupCompile.cache
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards_MarkupCompile.lref
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\MainWindow.baml
+C:\Users\Mijn PC\Documents\Visual Studio 2015\Projects\Cards\Cards\obj\Debug\Cards.g.resources

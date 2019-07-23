@@ -1,0 +1,7 @@
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\bin\Debug\File Output.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\bin\Debug\File Output.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\obj\x86\Debug\File_Output.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\obj\x86\Debug\File_Output.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\obj\x86\Debug\File Output.csproj.GenerateResource.Cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\obj\x86\Debug\File Output.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h18\h18\File Output\obj\x86\Debug\File Output.pdb

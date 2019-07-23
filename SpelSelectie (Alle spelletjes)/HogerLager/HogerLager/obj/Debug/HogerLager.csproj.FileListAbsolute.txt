@@ -1,0 +1,38 @@
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\bin\Debug\HogerLager.exe.config
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\bin\Debug\HogerLager.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\bin\Debug\HogerLager.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\GameWindow.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLagerWindow.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager_MarkupCompile.cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager_MarkupCompile.lref
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\GameWindow.baml
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLagerWindow.baml
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager.g.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager.Properties.Resources.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\obj\Debug\HogerLager.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\bin\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\HogerLager\bin\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\HogerLager.exe.config
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\HogerLager.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\HogerLager.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\GameWindow.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLagerWindow.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager_MarkupCompile.cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager_MarkupCompile.lref
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\GameWindow.baml
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLagerWindow.baml
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.g.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.Properties.Resources.resources
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.exe
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\bin\Debug\HogerLager.exe.config
+D:\PXL\1ste jaar\periode 3\DotNet\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.exe
+D:\PXL\1ste jaar\periode 3\DotNet\SpelSelectie (Alle spelletjes)\HogerLager\HogerLager\obj\Debug\HogerLager.pdb

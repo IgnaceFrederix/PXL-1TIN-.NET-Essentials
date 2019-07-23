@@ -1,0 +1,19 @@
+//-----------------------------------------------------------------------------
+// Programmeren in C#: oplossingen oefeningen
+// Auteur: Kris.Hermans@live.be
+// Copyright (c) 2011 Pearson Education Benelux
+//-----------------------------------------------------------------------------
+
+Ga met Windows Verkenner naar een map van aan willekeurig project.
+
+Voor elk formulier worden er twee bestanden aangemaakt met C#-code:
+
+- Form1.cs bevat de code die de programmeur in de editor schrijft,
+het bevat typisch code voor event afhandeling
+
+- Form1.Designer.cs bevat de code die de IDE heeft aangemaakt om het
+formulier te tekenen.
+
+In de IDE kan je in de Solution Explorer klikken op het icoon "Show All Files".
+Vervolgens verschijnt er een plus-teken voor de Form waarop je kan klikken
+om Form1.Designer.cs te bekijken.

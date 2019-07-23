@@ -1,0 +1,22 @@
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\bin\Debug\WpfApplication14.exe.config
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\bin\Debug\WpfApplication14.exe
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\bin\Debug\WpfApplication14.pdb
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.csprojResolveAssemblyReference.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\MainWindow.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\App.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14_MarkupCompile.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14_MarkupCompile.lref
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\MainWindow.baml
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.g.resources
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.Properties.Resources.resources
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.csproj.GenerateResource.Cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.exe
+c:\users\mijn pc\documents\visual studio 2015\Projects\WpfApplication14\WpfApplication14\obj\Debug\WpfApplication14.pdb
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\bin\Debug\WpfApplication14.exe.config
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\WpfApplication14.exe
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\WpfApplication14.pdb
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\WpfApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\MainWindow.g.cs
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\App.g.cs
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\WpfApplication14_MarkupCompile.cache
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\ballon tekenen en verplaatsen\WpfApplication14\obj\Debug\WpfApplication14_MarkupCompile.lref

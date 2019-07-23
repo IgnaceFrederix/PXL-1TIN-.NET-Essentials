@@ -1,0 +1,8 @@
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\bin\Debug\Lookup months.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\bin\Debug\Lookup months.pdb
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup months.csprojResolveAssemblyReference.cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup_months.Form1.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup_months.Properties.Resources.resources
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup months.csproj.GenerateResource.Cache
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup months.exe
+D:\PXL\1ste jaar\periode 3\DotNet\oplossingen oef\h13\h13\Lookup months\obj\x86\Debug\Lookup months.pdb

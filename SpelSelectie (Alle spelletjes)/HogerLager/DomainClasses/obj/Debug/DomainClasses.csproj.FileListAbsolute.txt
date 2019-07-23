@@ -1,0 +1,9 @@
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\DomainClasses\bin\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\DomainClasses\bin\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\DomainClasses\obj\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\Hoger Lager\HogerLager\DomainClasses\obj\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\DomainClasses\bin\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\DomainClasses\bin\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\DomainClasses\obj\Debug\DomainClasses.dll
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\DomainClasses\obj\Debug\DomainClasses.pdb
+C:\Users\Sam\Documents\PXL\.NET Essentials\Mini Project\SpelSelectie (Alle spelletjes)\HogerLager\DomainClasses\obj\Debug\DomainClasses.csprojResolveAssemblyReference.cache

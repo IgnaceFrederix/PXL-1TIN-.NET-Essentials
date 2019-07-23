@@ -1,0 +1,48 @@
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe.config
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.pdb
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.csprojResolveAssemblyReference.cache
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\GeefPuntenWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerkrachtenWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerlingenWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\MainWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\RegistreerWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\GeefPuntenWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerkrachtenWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerlingenWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\MainWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\RegistreerWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\App.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing_MarkupCompile.cache
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.g.resources
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.Properties.Resources.resources
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.csproj.GenerateResource.Cache
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.exe
+c:\users\11308157\documents\visual studio 2013\Projects\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.pdb
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe.config
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.exe
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.pdb
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.pdb
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.csprojResolveAssemblyReference.cache
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\GeefPuntenWindow.baml
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerkrachtenWindow.baml
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerlingenWindow.baml
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\MainWindow.baml
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\RegistreerWindow.baml
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\GeefPuntenWindow.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerkrachtenWindow.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\LeerlingenWindow.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\MainWindow.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\RegistreerWindow.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\App.g.cs
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing_MarkupCompile.cache
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.g.resources
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.Properties.Resources.resources
+C:\Users\sander\Dropbox\school\herexamens\net moet\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.csproj.GenerateResource.Cache
+C:\Users\Sander\Dropbox\school\1e jaar\dot net\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe.config
+C:\Users\Sander\Dropbox\school\1e jaar\dot net\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.exe
+C:\Users\Sander\Dropbox\school\1e jaar\dot net\fb\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.pdb
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\no credits to me\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\bin\Debug\ExamenZelfGemaaktOplossing.exe.config
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\no credits to me\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.exe
+C:\Users\Mijn PC\Documents\Bureaublad\Nieuwe map\no credits to me\ZelfgemaaktExamen\ExamenZelfGemaaktOplossing\ExamenZelfGemaaktOplossing\obj\Debug\ExamenZelfGemaaktOplossing.pdb

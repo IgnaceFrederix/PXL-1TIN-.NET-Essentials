@@ -1,0 +1,39 @@
+﻿<Window x:Class="Voorbeeld_style_en_radiobutton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Voorbeeld_style_en_radiobutton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style x:Key="myButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Opacity" Value="0.5" />
+            <Setter Property="Height" Value="23" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+      
+        <StackPanel Orientation="Horizontal" Margin="10,0,-10,0" >
+            <GroupBox Header="Left" Margin="10,10,10,240">
+                <StackPanel Margin="0,0,0,-22" Width="75">
+                    <RadioButton Content="Small" GroupName="MyButtons"/>
+                    <RadioButton Content="Medium" GroupName="MyButtons"/>
+                    <RadioButton Content="Large" GroupName="MyButtons"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Right" Margin="10,10,10,225" Width="74">
+                <StackPanel>
+                    <RadioButton Content="This" GroupName="MyButtons"/>
+                    <RadioButton Content="That" GroupName="MyButtons"/>
+                    <RadioButton Content="Other" GroupName="MyButtons"/>
+                </StackPanel>
+            </GroupBox>
+       
+            <Button Style="{StaticResource myButtonStyle}" x:Name="button" Content="Button" Width="75"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
+

@@ -1,0 +1,48 @@
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.pdb
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csprojResolveAssemblyReference.cache
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\MainWindow.baml
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\MainWindow.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\App.g.cs
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld_MarkupCompile.cache
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.g.resources
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.Properties.Resources.resources
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csproj.GenerateResource.Cache
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+c:\users\11308157\documents\visual studio 2013\Projects\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csprojResolveAssemblyReference.cache
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\MainWindow.baml
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\MainWindow.g.cs
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\App.g.cs
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld_MarkupCompile.cache
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.g.resources
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.Properties.Resources.resources
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csproj.GenerateResource.Cache
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe
+C:\Users\pieter\Downloads\HerExamenVoorbeeld\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+C:\Users\11308157\Desktop\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+C:\Users\11308157\Desktop\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+C:\Users\11308157\Desktop\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+C:\Users\11308157\Desktop\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\C#\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+C:\Users\11308157\Desktop\C#\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+C:\Users\11308157\Desktop\C#\netProgrammeren\HerExamenVoorbeeld2.0\HerExamenVoorbeeld\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe.config
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.exe
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.exe
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\bin\Debug\HerExamenVoorbeeld.pdb
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csprojResolveAssemblyReference.cache
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\MainWindow.baml
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\MainWindow.g.cs
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\App.g.cs
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld_MarkupCompile.cache
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.g.resources
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.Properties.Resources.resources
+C:\Users\11308157\Desktop\C#\netProgrammeren\Outputstreamvoorbeeld\outputstream\HerExamenVoorbeeld\obj\Debug\HerExamenVoorbeeld.csproj.GenerateResource.Cache

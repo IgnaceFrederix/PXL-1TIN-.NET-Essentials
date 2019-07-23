@@ -1,0 +1,9 @@
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\bin\Debug\Oef6_3_Random_Som_Gemiddelde.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\bin\Debug\Oef6_3_Random_Som_Gemiddelde.pdb
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.exe
+C:\Users\Jan Thuwis\Downloads\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.pdb
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.exe
+C:\Users\11304757\Documents\School\NET\opl h06\opl h06\Oef6_3_Random_Som_Gemiddelde\obj\x86\Debug\Oef6_3_Random_Som_Gemiddelde.pdb

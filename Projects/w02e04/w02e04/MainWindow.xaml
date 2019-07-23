@@ -1,0 +1,31 @@
+﻿<Window x:Class="w02e04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:w02e04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="klik op de schakelaar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="button" Content="uit" HorizontalAlignment="Left" Margin="45,41,0,0" VerticalAlignment="Top" Width="46" Click="toggle"/>
+        <GroupBox x:Name="leeftijd" Header="leeftijd" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top">
+            <StackPanel>
+                <RadioButton   IsChecked="True" Content="0-18"/>
+                <RadioButton Content="19-50"/>
+                <RadioButton Content="50-80"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="Geslacht" Header="Geslacht" HorizontalAlignment="Left" Margin="10,166,0,0" VerticalAlignment="Top">
+            <StackPanel>
+                <RadioButton IsChecked="True">man</RadioButton>
+                <RadioButton>vrouw</RadioButton>
+            </StackPanel>
+            
+            
+        </GroupBox>
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\bin\Debug\Oef7_14_Autoverzekering.exe
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\bin\Debug\Oef7_14_Autoverzekering.pdb
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\obj\x86\Debug\Oef7_14_Autoverzekering.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\obj\x86\Debug\Oef7_14_Autoverzekering.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\obj\x86\Debug\Oef7_14_Autoverzekering.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\obj\x86\Debug\Oef7_14_Autoverzekering.exe
+C:\Users\Jan Thuwis\Downloads\opl h07\opl h07\Oef7_14_Autoverzekering\obj\x86\Debug\Oef7_14_Autoverzekering.pdb

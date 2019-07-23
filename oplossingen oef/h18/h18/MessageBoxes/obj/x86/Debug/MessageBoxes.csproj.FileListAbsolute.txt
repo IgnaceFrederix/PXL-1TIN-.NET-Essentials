@@ -1,0 +1,8 @@
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.csprojResolveAssemblyReference.cache
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.Form1.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.exe
+C:\Users\Jan Thuwis\Downloads\h18\h18\MessageBoxes\obj\x86\Debug\MessageBoxes.pdb

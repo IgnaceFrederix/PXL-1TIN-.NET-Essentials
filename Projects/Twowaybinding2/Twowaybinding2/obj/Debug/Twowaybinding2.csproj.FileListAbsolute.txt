@@ -1,0 +1,7 @@
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\bin\Debug\Twowaybinding2.exe.config
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\Twowaybinding2.csprojResolveAssemblyReference.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\MainWindow.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\App.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\Twowaybinding2_MarkupCompile.cache
+c:\users\mijn pc\documents\visual studio 2015\Projects\Twowaybinding2\Twowaybinding2\obj\Debug\Twowaybinding2_MarkupCompile.lref

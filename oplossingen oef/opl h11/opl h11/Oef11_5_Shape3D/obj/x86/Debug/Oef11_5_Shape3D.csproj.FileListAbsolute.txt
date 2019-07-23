@@ -1,0 +1,7 @@
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\bin\Debug\Oef11_5_Shape3D.exe
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\bin\Debug\Oef11_5_Shape3D.pdb
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\obj\x86\Debug\Oef11_5_Shape3D.Form1.resources
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\obj\x86\Debug\Oef11_5_Shape3D.Properties.Resources.resources
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\obj\x86\Debug\Oef11_5_Shape3D.csproj.GenerateResource.Cache
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\obj\x86\Debug\Oef11_5_Shape3D.exe
+C:\Users\Jan Thuwis\Downloads\opl h11\opl h11\Oef11_5_Shape3D\obj\x86\Debug\Oef11_5_Shape3D.pdb
